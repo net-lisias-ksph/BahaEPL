@@ -1,5 +1,9 @@
 # Baha Drills & Parts for Extraplanetary Launchpads :: Change Log
 
+* 2018-1221: 1.3.02 (Eskandare) for KSP 1.5.1
+	+ Fixed attach node direction for 3D Printer and Compact launchpad.
+	+ Removed crew compartment in launch pad and added probe core.
+	+ Cleanup of launch pad config.
 * 2018-1220: 1.3.01 (Eskandare) for KSP 1.5.1
 	+ Version 1.3.01
 		- Updated dependencies.
